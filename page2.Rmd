@@ -1,0 +1,15 @@
+---
+title: "A Book"
+author: "Emily LaVerriere"
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Hello World Again
+
+page 2?
+Testing 2020-06-02.
+
+<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
